@@ -22,8 +22,7 @@
         "illuminate/http": "*",
         "illuminate/routing": "*",
         "illuminate/session": "*",
-        "illuminate/support": "*",
-        "illuminate/view": "*"
+        "illuminate/support": "*"
     },
     "require-dev": {
         "illuminate/database": "*",
