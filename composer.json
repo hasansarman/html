@@ -18,11 +18,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2.5",
-        "illuminate/http": "*",
-        "illuminate/routing": "*",
-        "illuminate/session": "*",
-        "illuminate/support": "*"
+        "php": ">=7.2.5"
     },
     "require-dev": {
         "illuminate/database": "*",
